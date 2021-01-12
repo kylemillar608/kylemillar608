@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya 👋
 
 #### Welcome to my page! Take a look around... There is not much to be seen at this moment - have been busy at work. I'm hoping to focus a bit more on personal projects in the coming months, so stick around for updates. Meanwhile...
 
