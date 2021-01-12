@@ -14,7 +14,7 @@ Interests:
   - Crypto :moneybag:
   - Guitar :guitar:
   - Videogames (LoL) :tv:
-  - Learning new things! :mortar_board:
+  - Learning new things, being curious! :mortar_board:
   
 Reach out:
 Linkedin :link: - [kyle-millar1](https://www.linkedin.com/in/kyle-millar1/)
