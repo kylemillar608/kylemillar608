@@ -12,6 +12,8 @@ Personally...
 - 🌱 I’m currently learning Java(Type)Script and Koa Web Framework as well as the modules that go along with those things (ie. Jest, TypeORM, etc.)
 - 👯 I’m looking to collaborate on Koa middleware and TypeScript modules (think Json validation/Swagger, AWS SQS integration), reactive streaming apps, or quantitative finance software.
 
+:eyes: Check out my "blog" posts in my "I'm a teapot" repo! :thought_balloon:
+
 Interests:
   - Golfing :golf:/Snowboarding :snowboarder:/Basketball :basketball:/Surfing :surfer:
   - Cooking :fork_and_knife:
