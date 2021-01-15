@@ -4,7 +4,7 @@
 
 Meanwhile...
 
-At work, I focus on creating AWS-hosted financial microservices for Asurion (provide device insurance, warranties, and support). Most of my work there was using Spring Boot/Java, but our team has recently transitioned into TypeScript/Koa. Some projects I have worked on: subscriber, invoicing, and payments services, implementing a shared OAuth2.0 solution across our fleet of microservices, and leading development on our own feature flagging solution as well as our returns tracking microservice. Find more details on my resume! 
+At work, I focus on creating AWS-hosted financial microservices for Asurion (provides device insurance, warranties, and support). Most of my work there was using Spring Boot/Java, but our team has recently transitioned into TypeScript/Koa. Some projects I have worked on: subscriber, invoicing, and payments services, implementing a shared OAuth2.0 solution across our fleet of microservices, and leading development on our own feature flagging solution as well as our returns tracking microservice. Find more details on my resume! 
 
 Personally...
 
