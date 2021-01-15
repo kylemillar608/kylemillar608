@@ -16,7 +16,7 @@ At work, I focus on creating AWS-hosted financial microservices for Asurion (pro
 
 ### Interests:
   - Golfing ⛳,Snowboarding 🏂,Basketball 🏀,Surfing 🏄
-  - Cooking 🍴
+  - Cooking 🍝
   - Crypto 🤖
   - Guitar 🎸
   - Videogames (League, Smash bros) 📺
