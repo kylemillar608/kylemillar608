@@ -23,7 +23,7 @@ At work, I focus on creating AWS-hosted financial microservices for Asurion (pro
   - Learning new things, being curious! 🎓
   
 ### Social:  
-[LinkedIn](https://www.linkedin.com/in/kyle-millar1/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kyle-millar1/)
 
   
 <!--
