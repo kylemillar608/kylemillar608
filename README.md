@@ -19,7 +19,7 @@ Interests:
   - Cooking :fork_and_knife:
   - Crypto :moneybag:
   - Guitar :guitar:
-  - Videogames (LoL) :tv:
+  - Videogames (League, Smash bros) :tv:
   - Learning new things, being curious! :mortar_board:
   
 Reach out:
