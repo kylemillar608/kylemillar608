@@ -8,7 +8,7 @@ At work, I focus on creating AWS-hosted financial microservices for Asurion (pro
 
 #### Personally...
 
-- 🔭 I’m currently working on creating a solution to asynchronous micro-task scheduling. Find more details and the code in the [Boomerang](https://www.github.com/kylemillar608/Boomerang) repo!
+- 🔭 I’m currently working on creating a solution to asynchronous task scheduling. Find more details and the code in the [Boomerang](https://www.github.com/kylemillar608/Boomerang) repo!
 - 🌱 I’m currently learning Java(Type)Script and Koa Web Framework as well as the modules that typically go along with them (ie. Jest, TypeORM, etc.)
 - 👯 I’m looking to collaborate on Koa middleware and TypeScript modules (think Json validation/Swagger, AWS SQS integration), reactive streaming apps, or quantitative finance software.
 
